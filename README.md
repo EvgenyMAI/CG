@@ -1,5 +1,9 @@
 # Лабораторные работы по компьютерной графике
-### Установка библиотеки *freeglut* для архетипа компилятора *ucrt64* через среду MSYS2 MSYS:
+### Ссылка на статью "C/C++ for Visual Studio Code" от Microsoft:
+```
+https://code.visualstudio.com/docs/languages/cpp
+```
+### Установка библиотеки *freeglut* через среду MSYS2 MSYS:
 ```
 pacman -S mingw-w64-ucrt-x86_64-freeglut
 ```
